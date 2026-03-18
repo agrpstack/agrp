@@ -1,0 +1,24 @@
+AGRP RFC Package
+Version: v0.3
+Status: Draft
+
+Package Contents:
+
+docs/rfc/AGRP-RFC-v0.3.md
+docs/rfc/AGRP-RFC-latest.md
+docs/rfc/manifest.v0.3.txt
+
+schemas/core/agrp-core.strict.v0.3.schema.json
+schemas/conformance/agrp-deployment-conformance.v0.3.json
+
+examples/agrp-code-examples.json
+
+Description:
+
+This package contains the draft specification and supporting artifacts for the Agent Governance Response Protocol (AGRP).
+
+AGRP defines machine-readable governance responses used in agent execution environments.
+
+Maintainer:
+
+Eduard Kim
